@@ -1,0 +1,795 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "skipHashsumValidation": false,
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -103745901148700,
+    "name": "PPL7",
+    "favorite": false,
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "favorite": false,
+          "version": {
+            "id": 11002230,
+            "name": "1.27",
+            "metadata": {
+              "sha1": "869c070fed4d394100442611626de1b9d1ed1bae",
+              "size": 649518,
+              "path": "mods/tl_skin_cape_fabric_1.19.2-1.27.jar",
+              "url": "/mods/20155834/11002229/tl_skin_cape_fabric_1.19.2-1.27.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "favorite": false,
+          "version": {
+            "id": 4123950,
+            "name": "[1.19.2]  0.68.0+1.19.2",
+            "metadata": {
+              "sha1": "bb4d02f261723dd81effd117df9437bfa20dc728",
+              "size": 1820290,
+              "path": "mods/fabric-api-0.68.0+1.19.2.jar",
+              "url": "/mods/306612/4123950/fabric-api-0.68.0+1.19.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "favorite": false,
+          "version": {
+            "id": 4087656,
+            "name": "jei-1.19.2-fabric-11.4.0.286",
+            "metadata": {
+              "sha1": "f4c77ecd8b897a12c2c8a26350d93a93322a8bcd",
+              "size": 1068892,
+              "path": "mods/jei-1.19.2-fabric-11.4.0.286.jar",
+              "url": "/mods/238222/4087656/jei-1.19.2-fabric-11.4.0.286.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 324717,
+          "name": "Jade 🔍",
+          "favorite": false,
+          "version": {
+            "id": 4104894,
+            "name": "Jade-1.19.1-fabric-8.6.2",
+            "metadata": {
+              "sha1": "dc1ab5ee3b5dec13e91158f761794b83e8dabd6a",
+              "size": 429117,
+              "path": "mods/Jade-1.19.1-fabric-8.6.2.jar",
+              "url": "/mods/324717/4104894/Jade-1.19.1-fabric-8.6.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "name": "Just Enough Items (JEI)",
+              "gameEntityId": 238222,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 253449,
+              "name": "Hwyla",
+              "gameEntityId": 253449,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 32274,
+          "name": "JourneyMap",
+          "favorite": false,
+          "version": {
+            "id": 4097938,
+            "name": "journeymap-1.19.2-5.9.0beta3-fabric",
+            "metadata": {
+              "sha1": "a97e21275c84c7542a37f5fb6ac83af7f3ab56eb",
+              "size": 7279783,
+              "path": "mods/journeymap-1.19.2-5.9.0beta3-fabric.jar",
+              "url": "/mods/32274/4097938/journeymap-1.19.2-5.9.0beta3-fabric.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 226005,
+              "name": "JourneyMap Tools",
+              "gameEntityId": 226005,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 526824,
+          "name": "EssentialGUI",
+          "favorite": false,
+          "version": {
+            "id": 3940483,
+            "name": "1.8.2+1.19.2",
+            "metadata": {
+              "sha1": "3c68671fe9cc69fee5c86cfb06775f9fe23ed916",
+              "size": 709539,
+              "path": "mods/EssentialGUI-1.8.2+1.19.2.jar",
+              "url": "/mods/526824/3940483/EssentialGUI-1.8.2+1.19.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 228525,
+          "name": "Bookshelf",
+          "favorite": false,
+          "version": {
+            "id": 4052017,
+            "name": "Fabric-1.19.2-16.1.10",
+            "metadata": {
+              "sha1": "748391e49db6d53291b5c7994b2a796db1c41b73",
+              "size": 294285,
+              "path": "mods/Bookshelf-Fabric-1.19.2-16.1.10.jar",
+              "url": "/mods/228525/4052017/Bookshelf-Fabric-1.19.2-16.1.10.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 250419,
+          "name": "Enchantment Descriptions",
+          "favorite": false,
+          "version": {
+            "id": 4103617,
+            "name": "Fabric-1.19.2-13.0.10",
+            "metadata": {
+              "sha1": "a00448827a55511076f52db6f8d1810289d2cd83",
+              "size": 58056,
+              "path": "mods/EnchantmentDescriptions-Fabric-1.19.2-13.0.10.jar",
+              "url": "/mods/250419/4103617/EnchantmentDescriptions-Fabric-1.19.2-13.0.10.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 228525,
+              "name": "Bookshelf",
+              "gameEntityId": 228525,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 308702,
+          "name": "Mod Menu",
+          "favorite": false,
+          "version": {
+            "id": 4100232,
+            "name": "v4.1.1 for 1.19.2",
+            "metadata": {
+              "sha1": "ed592cc344f5437c56011d1d591d5734e3c6bda7",
+              "size": 604293,
+              "path": "mods/modmenu-4.1.1.jar",
+              "url": "/mods/308702/4100232/modmenu-4.1.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 280294,
+          "name": "FPS Reducer",
+          "favorite": false,
+          "version": {
+            "id": 3931334,
+            "name": "FpsReducer2-fabric-1.19.2-2.1",
+            "metadata": {
+              "sha1": "d927224666708f8bfa5cc85ede35407a647a2c3b",
+              "size": 110689,
+              "path": "mods/FpsReducer2-fabric-1.19.2-2.1.jar",
+              "url": "/mods/280294/3931334/FpsReducer2-fabric-1.19.2-2.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 308702,
+              "name": "Mod Menu",
+              "gameEntityId": 308702,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 248787,
+          "name": "AppleSkin",
+          "favorite": false,
+          "version": {
+            "id": 3927567,
+            "name": "appleskin-fabric-mc1.19-2.4.1",
+            "metadata": {
+              "sha1": "7bd52695e82b1ddd1fdb3320154b68bf48dfff37",
+              "size": 1040951,
+              "path": "mods/appleskin-fabric-mc1.19-2.4.1.jar",
+              "url": "/mods/248787/3927567/appleskin-fabric-mc1.19-2.4.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 521480,
+          "name": "Skin Layers 3D (FabricForge)",
+          "favorite": false,
+          "version": {
+            "id": 4001981,
+            "name": "1.5.2 - Fabric",
+            "metadata": {
+              "sha1": "2d5587e0ad79685bd3fdd369d6b0d6d3c7b56bcf",
+              "size": 447970,
+              "path": "mods/3dskinlayers-fabric-1.5.2-mc1.19.1.jar",
+              "url": "/mods/521480/4001981/3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 360438,
+          "name": "Lithium (Fabric)",
+          "favorite": false,
+          "version": {
+            "id": 4077220,
+            "name": "Lithium mc1.19.2-0.10.2",
+            "metadata": {
+              "sha1": "bfca8397fa9034410b3846e3938ead600da5a420",
+              "size": 543167,
+              "path": "mods/lithium-fabric-mc1.19.2-0.10.2.jar",
+              "url": "/mods/360438/4077220/lithium-fabric-mc1.19.2-0.10.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 394468,
+              "name": "Sodium",
+              "gameEntityId": 394468,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 372124,
+              "name": "Phosphor (Fabric)",
+              "gameEntityId": 372124,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 394468,
+          "name": "Sodium",
+          "favorite": false,
+          "version": {
+            "id": 3957319,
+            "name": "0.4.4",
+            "metadata": {
+              "sha1": "227648dc4f6a8604bafc282612a6de47eff70cd8",
+              "size": 1372575,
+              "path": "mods/sodium-fabric-mc1.19.2-0.4.4+build.18.jar",
+              "url": "/mods/394468/3957319/sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 372124,
+              "name": "Phosphor (Fabric)",
+              "gameEntityId": 372124,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 360438,
+              "name": "Lithium (Fabric)",
+              "gameEntityId": 360438,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "no_active",
+          "id": 353928,
+          "name": "Botany Pots",
+          "favorite": false,
+          "version": {
+            "id": 4077365,
+            "name": "Fabric-1.19.2-9.0.13",
+            "metadata": {
+              "sha1": "23631678bce6d3d7096b3cdf91fb8ffd9435e0c3",
+              "size": 653664,
+              "path": "mods/BotanyPots-Fabric-1.19.2-9.0.13.jar",
+              "url": "/mods/353928/4077365/BotanyPots-Fabric-1.19.2-9.0.13.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 228525,
+              "name": "Bookshelf",
+              "gameEntityId": 228525,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 442735,
+          "name": "Physics Mod",
+          "favorite": false,
+          "version": {
+            "id": 4086044,
+            "name": "Physics 2.9.2 (Fabric - 1.19.x)",
+            "metadata": {
+              "sha1": "af871ff8facbc87ecdc2e4f059754a7afaaee75c",
+              "size": 54013325,
+              "path": "mods/physics-mod-2.9.2-mc-1.19.x-fabric.jar",
+              "url": "/mods/442735/4086044/physics-mod-2.9.2-mc-1.19.x-fabric.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 349630,
+          "name": "WI Zoom",
+          "favorite": false,
+          "version": {
+            "id": 3921702,
+            "name": "WI-Zoom-1.4-MC1.19.2",
+            "metadata": {
+              "sha1": "553803318f57bc7ac6efb6b63cff720dd51b721e",
+              "size": 139802,
+              "path": "mods/WI-Zoom-1.4-MC1.19.2.jar",
+              "url": "/mods/349630/3921702/WI-Zoom-1.4-MC1.19.2.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 511319,
+          "name": "Reese's Sodium Options",
+          "favorite": false,
+          "version": {
+            "id": 3946216,
+            "name": "1.4.7 for Minecraft 1.19.2",
+            "metadata": {
+              "sha1": "b9cc6500afef896a577f7f07b635945d469e4b41",
+              "size": 49903,
+              "path": "mods/reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar",
+              "url": "/mods/511319/3946216/reeses_sodium_options-1.4.7+mc1.19.2-build.59.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 447673,
+              "name": "Sodium Extra",
+              "gameEntityId": 447673,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 394468,
+              "name": "Sodium",
+              "gameEntityId": 394468,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 455508,
+              "name": "Iris Shaders",
+              "gameEntityId": 455508,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 455508,
+          "name": "Iris Shaders",
+          "favorite": false,
+          "version": {
+            "id": 4119878,
+            "name": "Iris 1.4.3 for Minecraft 1.19.2",
+            "metadata": {
+              "sha1": "b63d3c66c18bd79078539ea5268456ef6e358c84",
+              "size": 2630849,
+              "path": "mods/iris-mc1.19.2-1.4.3.jar",
+              "url": "/mods/455508/4119878/iris-mc1.19.2-1.4.3.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 394468,
+              "name": "Sodium",
+              "gameEntityId": 394468,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 447673,
+          "name": "Sodium Extra",
+          "favorite": false,
+          "version": {
+            "id": 4098348,
+            "name": "0.4.13 for Minecraft 1.19.2",
+            "metadata": {
+              "sha1": "5eef6eb9db670ee4e7d5067560b68df4445fd95c",
+              "size": 254622,
+              "path": "mods/sodium-extra-0.4.13+mc1.19.2-build.76.jar",
+              "url": "/mods/447673/4098348/sodium-extra-0.4.13+mc1.19.2-build.76.jar"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 394468,
+              "name": "Sodium",
+              "gameEntityId": 394468,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 511319,
+              "name": "Reese's Sodium Options",
+              "gameEntityId": 511319,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 455508,
+              "name": "Iris Shaders",
+              "gameEntityId": 455508,
+              "dependencyType": "required"
+            }
+          ],
+          "available": false,
+          "parser": false
+        }
+      ],
+      "resourcePacks": [
+        {
+          "stateGameElement": "active",
+          "id": 403506,
+          "name": "Darkmode",
+          "favorite": false,
+          "version": {
+            "id": 3954987,
+            "name": "Darkpack v2.3",
+            "metadata": {
+              "sha1": "b34d591a55ce3a6e2eaffa740154cd811fbcae1d",
+              "size": 13786901,
+              "path": "resourcepacks/darkpack-v2.3.zip",
+              "url": "/resourcepacks/403506/3954987/darkpack-v2.3.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 477204,
+          "name": "Reimagined",
+          "favorite": false,
+          "version": {
+            "id": 4082696,
+            "name": "v1.37.1",
+            "metadata": {
+              "sha1": "68d9d48f0351a1c682e32860fcefb8f6baaf3fda",
+              "size": 20348977,
+              "path": "resourcepacks/§aReimagined§8-[1.37.1].zip",
+              "url": "/resourcepacks/477204/4082696/%A7aReimagined%A78-%5B1.37.1%5D.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 407973,
+          "name": "Better dogs",
+          "favorite": false,
+          "version": {
+            "id": 4049650,
+            "name": "Better Dogs v0.3 [1.19.3 - 1.8.9]",
+            "metadata": {
+              "sha1": "073494963ecd2da26b32ffd3161eb1e489a5e8a6",
+              "size": 1078175,
+              "path": "resourcepacks/Better_Dogs_v0.3.zip",
+              "url": "/resourcepacks/407973/4049650/Better_Dogs_v0.3.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 364145,
+          "name": "Crops 3D",
+          "favorite": false,
+          "version": {
+            "id": 4087715,
+            "name": "Crops-3D_MC1.19_v1.2.0",
+            "metadata": {
+              "sha1": "ce537cb2384738e7ead91da1168b0f8701ac9faa",
+              "size": 528999,
+              "path": "resourcepacks/Crops-3D_MC1.19_v1.2.0.zip",
+              "url": "/resourcepacks/364145/4087715/Crops-3D_MC1.19_v1.2.0.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 416092,
+          "name": "Fishy's Netherite",
+          "favorite": false,
+          "version": {
+            "id": 4076192,
+            "name": "1.0.1(1.19.x)",
+            "metadata": {
+              "sha1": "8216059a39ab387827ef9223502ee6f05a7628df",
+              "size": 17997,
+              "path": "resourcepacks/Fishy's+Netherite1.0.1(1.19.x).zip",
+              "url": "/resourcepacks/416092/4076192/Fishy's+Netherite1.0.1(1.19.x).zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 580256,
+          "name": "Spryzeen's Bushy warts",
+          "favorite": false,
+          "version": {
+            "id": 3940720,
+            "name": "Bushy warts v1.4",
+            "metadata": {
+              "sha1": "cbe16494cc009ce86f3f103be6516decf144b9a8",
+              "size": 8978,
+              "path": "resourcepacks/---BushyWarts---.zip",
+              "url": "/resourcepacks/580256/3940720/---BushyWarts---.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 647035,
+          "name": "Rainbow hearts",
+          "favorite": false,
+          "version": {
+            "id": 3955415,
+            "name": "rainbow hearts 2.0 1.6.1+",
+            "metadata": {
+              "sha1": "f9aceb5fb5e04d34efb9760b811642f09a0a81e9",
+              "size": 27486,
+              "path": "resourcepacks/rainbow+hearts+2.0+1.6.1+.zip",
+              "url": "/resourcepacks/647035/3955415/rainbow+hearts+2.0+1.6.1+.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        }
+      ],
+      "maps": [],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": 385587,
+          "name": "Complementary Shaders v4",
+          "favorite": false,
+          "version": {
+            "id": 3951170,
+            "name": "Complementary v4.6",
+            "metadata": {
+              "sha1": "a7e1f3094752a54de159a00ca2122d7b98371ea8",
+              "size": 3444959,
+              "path": "shaderpacks/ComplementaryShaders_v4.6.zip",
+              "url": "/shaderpacks/385587/3951170/ComplementaryShaders_v4.6.zip"
+            },
+            "available": false
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "available": false,
+          "parser": false
+        }
+      ],
+      "gameVersionDTO": {
+        "id": 38,
+        "name": "1.19.2"
+      },
+      "minecraftVersionName": {
+        "id": 4286,
+        "name": "0.14.11"
+      },
+      "id": -103745901176801,
+      "name": "1.0",
+      "available": false,
+      "minecraftVersionTypes": [
+        {
+          "id": 2,
+          "name": "fabric"
+        }
+      ]
+    },
+    "userInstall": false,
+    "populateStatus": false,
+    "available": false,
+    "parser": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.19.2",
+  "skinVersion": true
+}
